@@ -36,7 +36,7 @@ Utilizamos herramientas de vanguardia para asegurar la durabilidad de cada "gema
 
 * **Frontend:** Angular, Vue.
 * **Mobile:** Flutter, React Native.
-* **Backend:** Next.js, Python.
+* **Backend:** Nest.js, Python.
 
 ---
 
